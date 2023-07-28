@@ -2,6 +2,9 @@ package user;
 
 public class client {
 	public static void main(String[]args){
-	System.out.println("IFET");
+	 int age=20;
+	 if(age>18) {
+		 System.out.println("Age is Greater than 18");
+	 }
 	}
 }
